@@ -14,8 +14,8 @@ In Udacity DIGITS Workspace, start the DIGITS server by entering the command dig
 
 ## Create Dataset, Define Network's Hyperparameters And Train The Model
 The steps would be explained via Jupyter Notebooks below:
-- [Training a model](Image Classification with DIGITS - Training a model.ipynb)
 
-- [Improving model accuracy](Image Classification with DIGITS - Improving Performance.ipynb)
+- [Training a model](ImageClassificationwithDIGITS-Trainingamodel.ipynb)
 
-- [here](robotic-inference.pdf).
+- [Improving model accuracy](ImageClassificationwithDIGITS-ImprovingPerformance.ipynb)
+
